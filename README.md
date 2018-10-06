@@ -20,7 +20,7 @@ see example/bond.pair;
  3   5   1
  3   6   1
  ```
- when you type in command line, `python -i gen-ang-dih.py -o ang-dih.pair`, the output file `ang-dih.apri` comes out.
+ when you type in command line, `python -i gen-ang-dih.py -o ang-dih.pair`, the output file `ang-dih.pair` comes out.
  
  # Limitation
  This works even with ring structure molecules.
